@@ -1,0 +1,1 @@
+Moje hra je strategická idle/clicker hra s jednoduchou ekonomikou. Hráč se rozhoduje, zda investovat body do klikání nebo do nákupu robotů, kteří generují body automaticky. Hra obsahuje systém ukládání a načítání, offline příjem a zvyšující se ceny za upgrady. Rozhodnutí hráče ovlivňují tempo hry a budoucí vývoj, což naplňuje principy jednoduché strategie.
